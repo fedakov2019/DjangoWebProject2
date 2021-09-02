@@ -28,3 +28,4 @@ urlpatterns = [
     path('about', views.about),
     path('contact', views.contact),
 ]
+vxc
